@@ -1,4 +1,4 @@
-st(map(int,input().split()))
+l = list(map(int,input().split()))
 while(1):
     numSwaps = 0
     for i in range(len(l)-1):
