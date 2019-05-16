@@ -1,4 +1,4 @@
-nt(input())
+nums = int(input())
 up = False
 down = False
 reverse = False
